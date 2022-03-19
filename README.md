@@ -1,6 +1,10 @@
 # TaskAsync
 C# 處理同步非同步範例。    
 
+本篇主要為此文章的範例:
+<a href="https://yuhsiang237.github.io/2022/03/19/%E4%BD%BF%E7%94%A8Task%E6%92%B0%E5%AF%AB%E7%AC%AC%E4%B8%80%E5%80%8B%E9%9D%9E%E5%90%8C%E6%AD%A5%E7%A8%8B%E5%BC%8F-C-%E5%9F%B7%E8%A1%8C%E7%B7%92%E5%90%8C%E6%AD%A5%E7%95%B0%E6%AD%A5%E7%B7%A8%E7%A8%8B%E8%A8%98/
+">使用Task撰寫第一個非同步程式 - C# 執行緒同步異步編程</a>
+
 我們有五件事情分別如下:
 
 1. 起床
